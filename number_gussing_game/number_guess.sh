@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PSQL="psql --username=panda --dbname=number_guessing_game -t --no-align -c"
+PSQL="psql --username=freecodecamp --dbname=number_guessing_game -t --no-align -c"
 
 echo "Enter your username:";
 
